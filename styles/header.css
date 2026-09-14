@@ -1,0 +1,17 @@
+.header__profile-link {
+  position: relative;
+}
+
+.header__profile-link::after {
+  content: "";
+  position: absolute;
+}
+
+.header__profile-visual {
+  position: relative;
+}
+
+.header__profile-visual::before {
+  content: "";
+  position: absolute;
+}
