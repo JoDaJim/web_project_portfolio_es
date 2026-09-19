@@ -38,3 +38,9 @@
   font-weight: 700;
   font-style: normal;
 }
+
+body {
+  background-color: #111111;
+  color: #ffffff;
+  margin: 0;
+}
