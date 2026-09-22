@@ -139,7 +139,7 @@
     top: 10px;
     right: auto;
     bottom: auto;
-    left: calc(50% - 150);
+    left: calc(50% - 150px);
   }
   .header__profile-info {
     width: 100%;
